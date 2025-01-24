@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DATA SCIENCE from AAFT</h3>
 
 <center>
-![image](https://github.com/user-attachments/assets/bde7865c-4949-4b8f-bb52-56184975b068)
+  ![Uploading image.png…]()
 </center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-nawaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-nawaz-alam" /> </p>
