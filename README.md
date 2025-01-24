@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm SAHIL NAWAZ ALAM</h1>
 <h3 align="center">A passionate DATA SCIENCE from AAFT</h3>
 
+<center>
+![image](https://github.com/user-attachments/assets/bde7865c-4949-4b8f-bb52-56184975b068)
+</center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil-nawaz-alam&label=Profile%20views&color=0e75b6&style=flat" alt="sahil-nawaz-alam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-nawaz-alam" alt="sahil-nawaz-alam" /></a> </p>
 
-![image](https://github.com/user-attachments/assets/bde7865c-4949-4b8f-bb52-56184975b068)
 
 
 - 🔭 I’m currently enrolled in **B.Sc. Data Science**
