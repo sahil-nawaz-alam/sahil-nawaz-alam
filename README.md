@@ -2,7 +2,8 @@
 <h3 align="center">A passionate DATA SCIENCE from AAFT</h3>
 
 <center>
- ![Uploading image.png…]()
+[Uploading image.png…]
+
 
 </center>
 
